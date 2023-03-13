@@ -1,0 +1,27 @@
+img{
+    height: 50px;
+    width:50px;
+}
+.Net{
+    display: flex;
+    background-color: black;
+   padding: 15px;
+}
+.netflix ul{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.netflix ul li {
+   list-style: none;
+}
+.netflix ul li a{
+    text-decoration: none;
+    color:whitesmoke ;
+    padding: 50px ;
+}
+ .netflix ul li a :hover{
+    text-decoration: underline transparent;
+    border-bottom: 3px solid red;
+    
+}
