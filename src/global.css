@@ -1,0 +1,50 @@
+.counter{
+  /* margin-left: 100px */
+  text-align: center;
+ margin-top: 200px; 
+}
+.increment {
+    height: 50px;
+    width:50px;
+    border-radius: 25px;
+   margin-right:30px;
+   background-color: black;
+   color: aliceblue;
+   font-size: 30px;
+   border: 2px solid black;
+   text-align: center;
+}
+
+.decrement{
+    height: 50px;
+    width:50px;
+    border-radius: 25px;
+   margin-right:30px;
+   background-color: black;
+   color: aliceblue;
+   font-size: 35px;
+   border: 2px solid black;
+   text-align: center;
+}
+
+.reset{
+    height: 50px;
+    width:50px;
+    border-radius: 25px;
+   margin-right:30px;
+   background-color: black;
+   color: aliceblue;
+   font-size: 25px;
+   border: 2px solid black;
+   text-align: center;
+}
+
+.increment:hover{
+    border: 5px solid white;
+}
+.decrement:hover{
+    border: 5px solid white;
+}
+.reset:hover{
+    border: 5px solid white;
+}
